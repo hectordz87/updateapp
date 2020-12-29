@@ -1,9 +1,9 @@
 {
   "latestVersion": "1.0.1",
   "latestVersionCode": 2,
-  "url": "https://github.com/hectordz87/updateapp/blob/master/release/app-debug.apk",
+  "url": "https://github.com/hectordz87/updateapp/raw/master/release/app-debug.apk",
   "releaseNotes": [
-    "- Version 1.0.1",
+    "- Version 1.0.1-",
     "- Bug fixes"
   ]
 }
